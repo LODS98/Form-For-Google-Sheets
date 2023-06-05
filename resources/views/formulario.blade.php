@@ -86,6 +86,12 @@
                 </div>
             </div>
             <div class="form-group row">
+                <label for="coluna13" class="col-sm-3 col-form-label">Usuário</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="coluna13" name="coluna13" required>
+                </div>
+                </div>
+            <div class="form-group row">
                 <div class="col-sm-12">
                     <button type="submit" class="btn btn-primary" id="salvar">Salvar</button>
                 </div>
