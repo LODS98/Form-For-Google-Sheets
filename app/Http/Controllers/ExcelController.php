@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Google\Client;
 use Google\Service\Sheets;
 use Google\Service\Sheets\ValueRange;
 
